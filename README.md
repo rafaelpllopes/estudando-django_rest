@@ -1,1 +1,2 @@
-# estudando-django_rest
+# Projeto para estudar Django Rest Framework
+
